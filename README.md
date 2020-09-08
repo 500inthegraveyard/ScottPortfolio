@@ -1,2 +1,0 @@
-# ScottPortfolio
-Developer Portfolio
